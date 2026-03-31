@@ -1,3 +1,5 @@
+**Q2. Missing Baselines and Comparisons.**
+
 | **PickScore/SDv1.5** | DreamSim (↑) | CLIP (↑) | Recall (↑) | Vendi (↑) | Reward (↑) |
 | -------------------- | ------------ | -------- | ---------- | --------- | ---------- |
 | Base model           | 0.7476       | 0.2678   | 1.0000     | 78.96     | 0.2653     |
