@@ -1,4 +1,4 @@
-Q2. Comparison with GARDO.
+**Q2. Comparison with GARDO.**
 
 | **PickScore/SDv1.5** | DreamSim (↑) | CLIP (↑) | Recall (↑) | Vendi (↑) | Reward (↑) |
 | -------------------- | ------------ | -------- | ---------- | --------- | ---------- |
@@ -43,7 +43,7 @@ Q2. Comparison with GARDO.
 | Improve (avg.)    | +11.66%      | +11.48%  | +14.80%    | +15.83%   | +13.23%    |
 
 
-Q5. Sample Efficiency and Convergence of Reward-Concentrated Sampling (RCS). 
+**Q5. Sample Efficiency and Convergence of Reward-Concentrated Sampling (RCS).**
 
 | **PickScore/SD1.5** | DreamSim (↑) | CLIP (↑) | Recall (↑) | Vendi (↑) | Reward (↑) |
 | ------------------- | ------------ | -------- | ---------- | --------- | ---------- |
